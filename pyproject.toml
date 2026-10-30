@@ -1,0 +1,11 @@
+[project]
+name = "calculadora-financeira"
+version = "1.0.0"
+description = "Calculadora financeira: juros, parcelas, descontos e inflação."
+requires-python = ">=3.10"
+dependencies = ["flet==0.28.3"]
+
+[tool.flet]
+org = "br.com.calculadora"
+product = "Calculadora Financeira"
+company = "Calculadora Financeira"
